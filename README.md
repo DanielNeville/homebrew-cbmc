@@ -17,3 +17,10 @@ Binary linked: symex
 Note:  Not all dependencies necessarily listed.
 Please execute: xcode-select --install 
 (if not previously executed on your machine.)
+
+
+Ubuntu?  Latest stable Ubuntu at: 
+
+After viewing, install with (to './cbmc' folder):
+
+curl -s https://raw.githubusercontent.com/DanielNeville/homebrew-cbmc/master/cbmc-ubuntu-5.4.sh | bash /dev/stdin
